@@ -1,3 +1,2 @@
 This is the storage server that I made with two other teammates, Dongbin Lee and Abdelrahmen Osama for ECE297 project. 
-The server takes in data in census.scv and allows the client to input eight type of commands: "Connect", "Get", "Set", 
-"Delete", "Query","Disconnect" and "Exit".
+The server takes in data in census.scv and allows the client to input eight type of commands: "Connect", "Get", "Set", "Delete", "Query","Disconnect" and "Exit".
